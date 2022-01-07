@@ -25,6 +25,4 @@ This study shows the deep neural network make a prediction
 without handcrafted features given from conventional
 preprocessing techniques and the capability of transfer
 learning and Gaussian noise to adapt the characteristic
-of subject-specific EEG recordings.
-1. Introduction
-One of the major challenges in analyzing
+of subject-specific EEG recordings. 
