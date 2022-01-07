@@ -1,4 +1,4 @@
-##SeizureDetectionwithEEG
+SeizureDetectionwithEEG
 
 Deep learning models demonstrate incredible successes
 in different fields including computer vision, molecular biology,
